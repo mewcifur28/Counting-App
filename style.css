@@ -10,9 +10,11 @@ div {
 button {
     padding: 1em;
     margin: 1em;
+    border: none;
+    border-radius: 5px;
 }
 #increment, #decrement {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 #increment {
@@ -25,10 +27,10 @@ button {
 
 #save {
     background-color: steelblue;
-    color: white;
+    /* color: white; */
 }
 
 #reset {
     background-color: steelblue;
-    color: white;
+    /* color: white; */
 }
